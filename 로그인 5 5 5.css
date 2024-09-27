@@ -1,0 +1,61 @@
+h1 {
+    color: deepskyblue;
+    margin: 0 0 0 50px;
+    font-size: 80px;
+}
+
+h2 {
+    margin: 0 0 60px 50px;
+    font-size: 60px;   
+}
+.description { font-family: 'Amatic SC', cursive; }
+
+input {
+  margin: 20px 90px 0 100px;
+  width: 140px;
+  height: 32px;
+  font-size: 15px;
+  border: 0;
+  border-radius: 15px;
+  outline: none;
+  padding-left: 15px;
+  background-color: lightsteelblue;
+}
+body {
+    background-color: aliceblue;
+    border: dashed;
+    border-color: cornflowerblue ;
+    margin: 150px;
+    align-content: center;
+    
+}
+
+p {
+    font-size: 70px;
+    margin: 50px;
+  
+}
+
+button {
+    margin: 0;
+    width: 60px;
+    height: 30px;
+    font-size: 15px;
+    border: 0;
+    border-radius: px;
+    outline: none;
+    background-color: black;
+    color: white;
+}
+
+.naevis {
+    width: 300px;
+    padding: 60px 0 0 100px;
+    border-radius: 0 30% 10% 0%;
+}
+
+#naevisDoneMovie {
+    font-size: 40px;
+    padding: 100px 100px 100px 100px;
+    margin: px;
+}
